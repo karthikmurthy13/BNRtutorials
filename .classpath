@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Geoquiz/gen"/>
+	<classpathentry kind="src" path="Geoquiz/src"/>
+	<classpathentry kind="lib" path="Geoquiz/bin/dexedLibs/android-support-v4-7af6db3387834cef316333b3950ad7b2.jar"/>
+	<classpathentry kind="lib" path="Geoquiz/libs/android-support-v4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="output" path="Geoquiz/bin/classes"/>
+</classpath>
